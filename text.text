@@ -1,0 +1,10 @@
+HBase Shell; enter 'help<RETURN>' for list of supported commands.
+Type "exit<RETURN>" to leave the HBase Shell
+Version 1.1.2.2.6.5.0-292, r897822d4dd5956ca186974c10382e9094683fa29, Fri May 11 08:00:59 UTC 2018
+
+scan 'g3_tb',{FILTER=>'SingleColumnValueFilter('cf','year',!=,'binary:1671') OR SingleColumnValueFilter('cf','match_count',<,'binary:00100')'}
+SyntaxError: (hbase):1: syntax error, unexpected tIDENTIFIER
+
+scan 'g3_tb',{FILTER=>'SingleColumnValueFilter('cf','year',!=,'binary:1671') OR SingleColumnValueFilter('cf','match_count',<,'binary:00100')'}
+                                                 ^
+
