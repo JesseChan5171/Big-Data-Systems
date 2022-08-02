@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/s1155124983/Program/hw5/q2e/target/scala-2.11/simple-project_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleApp2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/s1155124983/Program/hw5/q2e/target/scala-2.11/classes/SimpleApp2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleApp2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/s1155124983/Program/hw5/q2e/target/scala-2.11/classes/SimpleApp2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleApp2$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/s1155124983/Program/hw5/q2e/target/scala-2.11/classes/SimpleApp2$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleApp2$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/s1155124983/Program/hw5/q2e/target/scala-2.11/classes/SimpleApp2$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleApp2$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/s1155124983/Program/hw5/q2e/target/scala-2.11/classes/SimpleApp2$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleApp2$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/s1155124983/Program/hw5/q2e/target/scala-2.11/classes/SimpleApp2$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m/home/s1155124983/Program/hw5/q2e/src/main/scala/q2e.scala:18:29: not enough arguments for method pregel: (initialMsg: A, maxIterations: Int, activeDirection: org.apache.spark.graphx.EdgeDirection)(vprog: (org.apache.spark.graphx.VertexId, Int, A) => Int, sendMsg: org.apache.spark.graphx.EdgeTriplet[Int,Int] => Iterator[(org.apache.spark.graphx.VertexId, A)], mergeMsg: (A, A) => A)(implicit evidence$6: scala.reflect.ClassTag[A])org.apache.spark.graphx.Graph[Int,Int].[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter initialMsg.[0m
+[0m[[0m[31merror[0m] [0m[0m    val sssp = init_g.pregel()([0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

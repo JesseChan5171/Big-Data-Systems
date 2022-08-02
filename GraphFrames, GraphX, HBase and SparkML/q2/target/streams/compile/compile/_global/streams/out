@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/s1155124983/Program/hw5/q2/src/main/scala/q2a.scala:55:26: Invalid literal number[0m
+[0m[[0m[31merror[0m] [0m[0m	val sub_5730_ed_count = 5730_sub.edges.count()[0m
+[0m[[0m[31merror[0m] [0m[0m	                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
